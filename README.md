@@ -1,4 +1,4 @@
-# NES Tile Viewer
+# NES Pattern Viewer
 Simple Nes Tile Viewer
 
 [Previews]
