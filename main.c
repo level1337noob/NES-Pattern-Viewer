@@ -172,7 +172,6 @@ void ScreenshotPNG(const char *filename)
 }
 
 
-
 int main(int argc, char *argv[])
 {
 	signal(SIGINT, test);
