@@ -1,2 +1,2 @@
-# NES-Tile-Viewer
+# NES Tile Viewer
 Simple Nes Tile Viewer
