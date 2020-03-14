@@ -112,7 +112,7 @@ unsigned char *chr_rom;
 // from one nametable
 // This selects based on each bitplane
 void select_tile(u8 selected_tile[8][8],
-				u8 tile_index, u8 nametable)
+		u8 tile_index, u8 nametable)
 {
 	u16 size = nametable ? 0x1000 : 0;
 	u16 selection;
