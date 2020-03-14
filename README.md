@@ -1,3 +1,4 @@
 # NES Tile Viewer
 Simple Nes Tile Viewer
-![Alt text](NES-Tile-Viewer/previoews/mario.png?raw=true "Title")
+
+[Mario](https://github.com/level1337noob/NES-Tile-Viewer/blob/master/previews/mario.png)
